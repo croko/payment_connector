@@ -1,4 +1,4 @@
-# payment_connector
+#  Payment Connector
 
 This is a sample code of a payment connector written in Elixir. It consists of three key modules:
 
